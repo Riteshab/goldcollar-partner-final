@@ -3,7 +3,7 @@ import { useLocation } from 'react-router-dom';
 import { supabase } from '../lib/supabase';
 import { Calendar, X } from 'lucide-react';
 import { SEO } from '../components/SEO';
-import sunnyImage from '../assets/Gemini_Generated_Image_4rz8fz4rz8fz4rz8.png';
+import sunnyImage from '../assets/Sunny.jpg';
 import industryToSmsfImage from '../assets/industry-super-to-SMSF-1-768x768.png';
 import freeChecklistImage from '../assets/free-checklist-1024x1024.png';
 

@@ -5,7 +5,7 @@ import { useFormContext } from '../context/FormContext';
 import { supabase } from '../lib/supabase';
 import { SEO } from '../components/SEO';
 import { ReviewsCarousel } from '../components/ReviewsCarousel';
-import sunnyImage from '../assets/Gemini_Generated_Image_4rz8fz4rz8fz4rz8.png';
+import sunnyImage from '../assets/Sunny.jpg';
 
 const HERO_VIDEO_URL = 'https://res.cloudinary.com/dd5fxatik/video/upload/v1760269429/herovideo_wj9uvn.mp4';
 const WHY_WORK_VIDEO_URL = 'https://res.cloudinary.com/dfdkkqn7j/video/upload/v1761793318/WhatsApp_Video_2025-10-28_at_23.05.43_f6943186_x55atf.mp4';
